@@ -1,0 +1,1 @@
+echo "testing merge command"
