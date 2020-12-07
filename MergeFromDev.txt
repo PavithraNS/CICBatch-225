@@ -1,2 +1,3 @@
 echo "Merging from dev to master"
 echo "Testing diff command"
+echo "Trying to create conflict at local master"
