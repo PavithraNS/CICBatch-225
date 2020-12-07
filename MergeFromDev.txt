@@ -1,1 +1,2 @@
 echo "Merging from dev to master"
+echo "Testing diff command"
